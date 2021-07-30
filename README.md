@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my developer portfolio
 
-- Technologies:
+- Programming languages and technologies:
 <p align="left">
   <a href="https://docs.oracle.com/en/java" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
